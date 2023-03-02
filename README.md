@@ -22,3 +22,7 @@
 
 # React
 - [Project Preview](https://user-images.githubusercontent.com/46293412/222421942-25ce0326-79bc-407b-b0eb-a4c69d0a8aee.webm)
+- GET, POST, UPDATE & DELETE action perform through <b> www.mockapi.io </b> API's
+- Use Router
+- Hooks used [useState, useEffect]
+- Little bit LocalStorage used
